@@ -20,7 +20,7 @@ Jamming es una aplicación web que permite a los usuarios crear y guardar listas
 
 ### 1️⃣ Clonar el Repositorio
 ```bash
-git clone [URL_DEL_REPOSITORIO](https://github.com/AndresGomezV/Jammming)
+git clone [(https://github.com/AndresGomezV/Jammming)]
 cd Jammming
 ```
 
